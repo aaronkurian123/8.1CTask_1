@@ -1,4 +1,4 @@
-// Updated pipeline
+// Updated pipelin
 pipeline {
     agent any
 
